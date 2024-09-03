@@ -162,7 +162,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><s
 style='mso-element:field-end'></span></span><![endif]-->.
 
 
-### **1.2.2 RNA-seq**
+### **1.2.2 RNA-Seq**
 
 RNA-seq involves sequencing complementary DNA (cDNA transcripts) and determining their abundance based on the number of counts from each transcript <!--[if supportFields]><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
