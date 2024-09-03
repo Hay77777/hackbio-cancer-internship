@@ -329,7 +329,7 @@ style='mso-element:field-end'></span></span><![endif]-->.
 
 Transcriptomics has a variety of applications including but not limited to the following:  
 
-**Diagnostics and Disease profiling**: RNA-Seq allows for the identification of key regulatory elements including transcription start sites and splicing variants which are indispensable in our understanding of disease <!--[if supportFields]><span
+**Diagnostics and Disease profiling**: RNA-Seq allows for the identification of key regulatory elements including transcription start sites and splicing variants which are indispensable in our understanding of diseases <!--[if supportFields]><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
 style='mso-element:field-begin;mso-field-lock:yes'></span>ADDIN CSL_CITATION
 {&quot;citationItems&quot;:[{&quot;id&quot;:&quot;ITEM-1&quot;,&quot;itemData&quot;:{&quot;DOI&quot;:&quot;10.1038/ejhg.2012.129&quot;,&quot;ISSN&quot;:&quot;10184813&quot;,&quot;PMID&quot;:&quot;22739340&quot;,&quot;abstract&quot;:&quot;The
