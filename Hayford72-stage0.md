@@ -1,3 +1,4 @@
+#Author: Hayford72
 # **_TRANSCRIPTOMICS_**
 
 ## **1.1 Introduction to the transcriptomics**
