@@ -415,9 +415,7 @@ style='mso-element:field-separator'></span></span><![endif]-->(Lee et al., 2018)
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
 style='mso-element:field-end'></span></span><![endif]-->.
 
-**Gene function annotation**
-
-Transcriptomics can link gene expression to specific phenotypes and this aids in annotating genes in non-model organisms and additionally discovering new genes without using a reference genome <!--[if supportFields]><span style='font-size:
+**Gene function annotation**: Transcriptomics can link gene expression to specific phenotypes and this aids in annotating genes in non-model organisms and additionally discovering new genes without using a reference genome <!--[if supportFields]><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
 style='mso-element:field-begin;mso-field-lock:yes'></span>ADDIN CSL_CITATION
 {&quot;citationItems&quot;:[{&quot;id&quot;:&quot;ITEM-1&quot;,&quot;itemData&quot;:{&quot;DOI&quot;:&quot;10.1186/s12864-017-4379-x&quot;,&quot;ISSN&quot;:&quot;14712164&quot;,&quot;PMID&quot;:&quot;29310597&quot;,&quot;abstract&quot;:&quot;Background:
